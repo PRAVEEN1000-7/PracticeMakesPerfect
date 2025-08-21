@@ -1,0 +1,10 @@
+Python is a powerful programming language.
+File handling allows reading and writing data.
+This is the third line in the file.
+Learning by practice makes concepts clear.
+Artificial Intelligence is shaping the future.
+Machine Learning is a subset of AI.
+Data Science combines statistics and programming.
+Algorithms are step-by-step problem solvers.
+Debugging helps us fix errors in code.
+Consistency is the key to mastering programming.
