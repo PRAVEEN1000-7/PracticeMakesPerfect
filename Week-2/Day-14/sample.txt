@@ -1,0 +1,10 @@
+TensorFlow is an open-source machine learning and deep learning framework developed by Google.
+It is mainly used to build, train, and deploy neural network models.
+TensorFlow works efficiently on CPUs, GPUs, and TPUs.
+The core data structure in TensorFlow is the tensor, which represents multi-dimensional arrays.
+It provides both low-level APIs for flexibility and high-level APIs like Keras for simplicity.
+TensorFlow supports eager execution, which allows operations to run immediately.
+It is widely used in computer vision, natural language processing, and speech recognition.
+TensorFlow has tools for deploying models on web, mobile, and cloud platforms.
+It also supports distributed training across multiple machines for scalability.
+TensorFlow is one of the most popular frameworks in both research and industry.
