@@ -22,3 +22,11 @@ Winner: squirtle
 Loser: bulbasaur
 Moves Used: {'Tackle', 'Vine Whip', 'Water Gun'}
 -------------------------------------------------------------------------------
+Winner: charmander
+Loser: squirtle
+Moves Used: {'Water Gun', 'Scratch', 'Tackle', 'Flamethrower'}
+-------------------------------------------------------------------------------
+Winner: charmander
+Loser: bulbasaur
+Moves Used: {'Tackle', 'Vine Whip', 'Flamethrower'}
+-------------------------------------------------------------------------------
