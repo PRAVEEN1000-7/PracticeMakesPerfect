@@ -1,0 +1,24 @@
+Winner: pikachu
+Loser: charmander
+Moves Used: {'Thunderbolt', 'Flamethrower', 'Scratch'}
+-------------------------------------------------------------------------------
+Winner: bulbasaur
+Loser: pikachu
+Moves Used: {'Thunderbolt', 'Vine Whip', 'Quick Attack'}
+-------------------------------------------------------------------------------
+Winner: squirtle
+Loser: charmander
+Moves Used: {'Flamethrower', 'Scratch', 'Water Gun', 'Tackle'}
+-------------------------------------------------------------------------------
+Winner: pikachu
+Loser: squirtle
+Moves Used: {'Tackle', 'Water Gun', 'Thunderbolt'}
+-------------------------------------------------------------------------------
+Winner: charmander
+Loser: pikachu
+Moves Used: {'Scratch', 'Quick Attack', 'Thunderbolt'}
+-------------------------------------------------------------------------------
+Winner: squirtle
+Loser: bulbasaur
+Moves Used: {'Tackle', 'Vine Whip', 'Water Gun'}
+-------------------------------------------------------------------------------
