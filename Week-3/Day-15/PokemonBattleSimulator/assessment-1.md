@@ -8,8 +8,8 @@ Ash and his friends want you to build a text-based Pokémon battle game. Your jo
 Define at least 3 Pokémon as Python dictionaries.
 Each Pokémon must have:
 
-```hp``` → hit points (integer, e.g., 100)
-```moves``` → another dictionary (move name → damage value)
+- ```hp``` → hit points (integer, e.g., 100)
+- ```moves``` → another dictionary (move name → damage value)
 ```
 pikachu = {"hp": 100, "moves": {"Thunderbolt": 20, "Quick Attack": 10}}
 charmander = {"hp": 90, "moves": {"Flamethrower": 25, "Scratch": 15}}
