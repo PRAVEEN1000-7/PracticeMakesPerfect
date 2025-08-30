@@ -5,9 +5,7 @@
 - **Dog Class** - Create a Dog class with attributes (name, age) and methods (bark(), get_age())
 - **Bank Account Class** - Implement a BankAccount class with deposit, withdraw, and balance check
 - **String Representation Methods** - Add __str__ and __repr__ methods
-
-## Problem Completed ✅
-**Pascal's Triangle** - Generate first numRows of Pascal's triangle
+- **Pascal's Triangle** - Generate first numRows of Pascal's triangle
 
 ## What I Learned
 - String representation methods (`__str__`, `__repr__`)
