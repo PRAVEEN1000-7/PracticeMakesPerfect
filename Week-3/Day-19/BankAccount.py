@@ -1,4 +1,3 @@
-# Q : Implement a BankAccount class with deposit, withdraw, and balance check.
 
 class BankAccount :
     
