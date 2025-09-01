@@ -1,0 +1,6 @@
+PyTorch is an open-source machine learning framework based on Python, primarily used for building and training deep learning models. 
+It offers a user-friendly and flexible platform for developing various types of artificial intelligence applications,
+including:
+Computer Vision: Analyzing and understanding visual data, such as image classification, object detection, and image segmentation.
+Natural Language Processing (NLP): Processing and understanding human language, including tasks like sentiment analysis, machine translation, and text generation.
+Generative AI: Creating new data, such as images or text, that resembles a given dataset.
